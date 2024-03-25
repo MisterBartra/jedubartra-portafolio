@@ -31,7 +31,6 @@ st.title("Experiencia")
     # Experiencia y habilidades
 st.markdown("## Experiencia y Calificaciones")
 st.markdown("Tengo 10 años de experiencia en sintaxis y programación en Java haciendo manejo de hilos, puedo afimar mi buena comprensión gracias a mi estudio autonomo y veo Python para realizar cómodo de mis bots de asistencia de apoyo especifico en dar dirección los datos ingresados así como bots totalmente independientes. Asu vez, era una opción distinta a desempeñar mis conocimientos para la construcción herramientas que optimizan y agilizan las tareas para el manejo de información.")
-st.markdown("- **Repositorio :\n[jedubartra21@gmail.com](mailto:jedubartra21@gmail.com)**")
 st.markdown("## Habilidades Técnicas")
 st.markdown("- **Lenguajes**: Excel, Python, Office, Git, SQL & Github")
 
